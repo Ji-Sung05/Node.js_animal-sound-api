@@ -2,7 +2,7 @@
 
 ### 간단한 동물소리 API 서버 만들기
 
-RUL :name의 값에 따라서 dog, cat, pig의 울음 소리를 보내주는 API 서버 입니다.
+URL :name의 값에 따라서 dog, cat, pig의 울음 소리를 보내주는 API 서버 입니다.
 
 서버에 API를 요청하는 간단한 HTML을 작성하여 사용할 수 있습니다.
 
